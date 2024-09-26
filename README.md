@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -107,7 +106,10 @@
 
         Demostrar la relación entre el Plan Estratégico y la línea de productos de la empresa.
         Para por lo menos un producto de la línea de producción presentar: Planos, Especificaciones Técnicas y Lista de materiales.</li>
-      <li>
+      <li>Ingeniería del Proceso. 
+
+        Describir el proceso de Fabricación y clasificarlo.
+        Diagrama de las operaciones del proceso. </li>
       <li>Gestión de Stocks. Programación de la Producción
 
         En base a la proyección de la demanda, determinar el Plan agregado de producción. PMP
