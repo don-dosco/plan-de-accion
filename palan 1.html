@@ -175,16 +175,8 @@
           <td>indefinido</td>
         </tr>
         <tr>
-          <td>julian</td>
-          <td>pendiente</td>
-          <td class="priority media">media</td>
-          <td>explicacion del organigrama</td>
-          <td>hacer la explicacion y colocarla en el diagrama</td>
-          <td>01/10/2024</td>
-        </tr>
-        <tr>
           <td>agustina</td>
-          <td>pendiente</td>
+          <td>en progreso</td>
           <td class="priority media">media</td>
           <td>Ingeniería del Proceso.</td>
           <td>Describir el proceso de Fabricación y clasificarlo.</td>
